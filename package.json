@@ -1,0 +1,45 @@
+{
+  "name": "cognixion-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord profesional para Cognixion Studio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cognixion",
+    "studio"
+  ],
+  "author": "Cognixion Studio",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chartjs-node-canvas": "^4.1.6",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.14.1",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3",
+    "mysql2": "^3.14.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cognixion-studio/discord-bot"
+  },
+  "bugs": {
+    "url": "https://github.com/cognixion-studio/discord-bot/issues"
+  },
+  "homepage": "https://github.com/cognixion-studio/discord-bot#readme"
+}
