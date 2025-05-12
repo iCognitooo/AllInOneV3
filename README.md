@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/XYq9ity.png" alt="Cognixion Studio Bot" width="200" height="200">
   <h1>Cognixion Studio Discord Bot</h1>
   <p>
     <b>Un bot de Discord profesional, modular y completo desarrollado con Node.js y discord.js v14</b>
