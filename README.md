@@ -200,7 +200,7 @@ Si necesitas ayuda o tienes alguna pregunta:
 
 - Abre un issue en este repositorio
 - Únete a nuestro [servidor de Discord](https://discord.gg/cognixion)
-- Contacta con el desarrollador en Discord: `tu_usuario#0000`
+- Contacta con el desarrollador en Discord: `icognitoo.dll`
 
 ## 🙏 Agradecimientos
 
@@ -214,7 +214,7 @@ Si necesitas ayuda o tienes alguna pregunta:
   <p>Desarrollado con ❤️ por Cognixion Studio</p>
   <p>
     <a href="https://discord.gg/cognixion">Discord</a> •
-    <a href="https://github.com/tu-usuario">GitHub</a> •
-    <a href="https://cognixion.com">Website</a>
+    <a href="https://github.com/iCognitooo">GitHub</a> •
+    <a href="https://cognixion.redes@gmail.com">Website</a>
   </p>
 </div>
