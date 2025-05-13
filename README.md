@@ -51,7 +51,7 @@
 
 1. **Clonar el repositorio**
    \`\`\`bash
-   git clone https://github.com/tu-usuario/cognixion-discord-bot.git
+   git clone [https://github.com/iCognitooo/CogniBot.git](https://github.com/iCognitooo/CogniBot.git)
    cd cognixion-discord-bot
    \`\`\`
 
@@ -59,29 +59,6 @@
    \`\`\`bash
    npm install
    \`\`\`
-
-3. **Configurar el archivo `config.json`**
-   \`\`\`json
-   {
-     "token": "TU_TOKEN_DE_DISCORD",
-     "clientId": "ID_DE_TU_BOT",
-     "guildId": "ID_DE_TU_SERVIDOR",
-     "database": {
-       "host": "localhost",
-       "user": "usuario",
-       "password": "contraseña",
-       "database": "cognixion_bot"
-     },
-     "colors": {
-       "primary": "#5865F2",
-       "success": "#57F287",
-       "warning": "#FEE75C",
-       "error": "#ED4245",
-       "info": "#5865F2"
-     }
-   }
-   \`\`\`
-
 4. **Crear la base de datos**
    \`\`\`sql
    CREATE DATABASE cognixion_bot;
