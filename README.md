@@ -96,33 +96,6 @@
    \`\`\`bash
    npm start
    \`\`\`
-
-## 📚 Estructura del Proyecto
-
-\`\`\`
-cognixion-discord-bot/
-├── index.js                # Archivo principal del bot
-├── config.json             # Configuración del bot
-├── deploy-commands.js      # Script para registrar comandos
-├── commands/               # Comandos organizados por categorías
-│   ├── admin/              # Comandos administrativos
-│   ├── economia/           # Sistema económico
-│   ├── moderacion/         # Comandos de moderación
-│   ├── niveles/            # Sistema de niveles
-│   ├── tickets/            # Sistema de tickets
-│   ├── utilidad/           # Comandos útiles
-│   └── ...
-├── events/                 # Manejadores de eventos
-├── buttons/                # Manejadores de interacciones de botones
-├── modals/                 # Manejadores de interacciones de modales
-├── selectMenus/            # Manejadores de interacciones de menús
-└── utils/                  # Utilidades y funciones auxiliares
-    ├── database.js         # Funciones de base de datos
-    ├── logger.js           # Sistema de registro
-    ├── ticket-manager.js   # Gestor de tickets
-    └── ...
-\`\`\`
-
 ## 🔧 Comandos Principales
 
 ### Configuración
