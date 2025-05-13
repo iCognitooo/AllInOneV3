@@ -30,15 +30,6 @@
 - **Sistema de Login**: Autenticación segura con códigos o credenciales
 - **Base de Datos**: Almacenamiento persistente con MySQL/MariaDB
 
-## 🖼️ Capturas de Pantalla
-
-<div align="center">
-  <img src="https://i.imgur.com/XdJBjsf.png" alt="Tickets System" width="400">
-  <img src="https://i.imgur.com/8tKY4nT.png" alt="Verification System" width="400">
-  <img src="https://i.imgur.com/TKcVDPk.png" alt="Economy System" width="400">
-  <img src="https://i.imgur.com/YCVZXd0.png" alt="Levels System" width="400">
-</div>
-
 ## 🚀 Instalación
 
 ### Requisitos Previos
