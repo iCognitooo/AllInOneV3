@@ -1,8 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/RayDev"><img src="https://pbs.twimg.com/profile_images/1071582837030060032/kKV-I01n_400x400.jpg" height="200" alt="All-in-One-V3"></a>
   <br>
-  All-in-One-V3 
+  Cognibot
   <br>
 </h1>
 
