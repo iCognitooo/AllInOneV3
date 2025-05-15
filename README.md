@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  Cognibot
+  All-In-One-V3
   <br>
 </h1>
 
