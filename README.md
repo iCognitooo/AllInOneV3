@@ -135,7 +135,4 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
-- Special thanks to [@saiteja-madha](https://github.com/saiteja-madha/) the owner of this code.
-- Feel free to [Fork](https://github.com/RayDev/All-In-One-Bot/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/RayDev/All-In-One-Bot/projects) or make a request for one at our [discord](https://dsc.gg/codexdev)
-"# All-in-One-V3" 
+- Special thanks to [@iCognitoo](https://github.com/iCognitooo/) the owner of this code.
