@@ -29,13 +29,6 @@
 
 ## 🚀 Getting Started
 
-- Open the terminal and run the following commands
-
-```
-git clone https://github.com/RayDev07/All-in-One-V3.git
-cd All-in-One-V3
-npm install
-```
 
 - Wait for all the dependencies to be installed
 - Rename `.env.example` to `.env` and fill the values
